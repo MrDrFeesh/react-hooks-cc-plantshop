@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "qeeqqeq",
+      "image": "https://thebigmansworld.com/wp-content/uploads/2023/07/spicy-ramen-recipe.jpg",
+      "price": "6.20",
+      "id": 8
+    },
+    {
+      "name": "qeeqqeq",
+      "image": "https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenfront-500x500.jpg",
+      "price": "4.20",
+      "id": 9
+    },
+    {
+      "name": "e",
+      "image": "https://www.modernfarmhouseeats.com/wp-content/uploads/2021/03/chili-lime-shrimp-ramen-2-scaled.jpg",
+      "price": "2",
+      "id": 10
     }
   ]
 }
